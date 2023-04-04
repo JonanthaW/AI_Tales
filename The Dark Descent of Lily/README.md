@@ -18,7 +18,7 @@ In the end, Lily was consumed by the darkness that Damien had brought into her l
 And as Damien continued to perform his dark trade, summoning the spirits of the dead and controlling them to do his bidding, Lily was beside her, a wry smile on her face as she watched him work his necromantic magic.
 
 <p align="center">
-   <img src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/1.png">
+   <img src="https://github.com/JonanthaW/AI_Tales/blob/main/The%20Dark%20Descent%20of%20Lily/images/1.png">
 </p>
 
 
@@ -27,21 +27,21 @@ And as Damien continued to perform his dark trade, summoning the spirits of the 
 <summary>Other images for reference</summary>
 
 <p align="center">
-   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/2.png">
-   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/3.png">
-   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/4.png">
-   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/5.png">
-   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/6.png">
-   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/7.png">
-   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/8.png">
-   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/9.png">
-   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/10.png">
-   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/11.png">
-   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/12.png">
-   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/13.png">
-   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/14.png">
-   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/15.png">
-   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/16.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/The%20Dark%20Descent%20of%20Lily/images/2.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/The%20Dark%20Descent%20of%20Lily/images/3.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/The%20Dark%20Descent%20of%20Lily/images/4.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/The%20Dark%20Descent%20of%20Lily/images/5.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/The%20Dark%20Descent%20of%20Lily/images/6.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/The%20Dark%20Descent%20of%20Lily/images/7.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/The%20Dark%20Descent%20of%20Lily/images/8.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/The%20Dark%20Descent%20of%20Lily/images/9.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/The%20Dark%20Descent%20of%20Lily/images/10.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/The%20Dark%20Descent%20of%20Lily/images/11.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/The%20Dark%20Descent%20of%20Lily/images/12.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/The%20Dark%20Descent%20of%20Lily/images/13.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/The%20Dark%20Descent%20of%20Lily/images/14.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/The%20Dark%20Descent%20of%20Lily/images/15.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/The%20Dark%20Descent%20of%20Lily/images/16.png">
 </p>
 
 </details>
