@@ -1,47 +1,47 @@
 ```
-Escreva um conto de terror médio curto sobre uma garota que namora um necromante.
+Write a medium-short horror tale about a girl who dates a necromancer.
 ```
-# The Dark Descent of Lily: O amor de um necromante.
+# The Dark Descent of Lily: The love of a necromancer.
 
-Era uma vez uma garota chamada Lily que foi arrebatada por um homem misterioso chamado Damien. Desde o momento em que se conheceram, ela ficou encantada com sua aura escura e presença poderosa. Mas o que Lily não sabia era que Damien era um necromante, com o poder de se comunicar e controlar os mortos.
+There once was a girl named Lily who was swept away by a mysterious man named Damien. From the moment they met, she was enthralled by his dark aura and powerful presence. But what Lily didn't know was that Damien was a necromancer, with the power to communicate with and control the dead.
 
-No início, o relacionamento deles era apaixonado e intenso. Damien sussurraria segredos sombrios para Lily, contando a ela sobre as forças das trevas que ele comandava. Ela ouvia com admiração enquanto ele falava sobre reanimar cadáveres e invocar os espíritos dos mortos.
+At first, their relationship was passionate and intense. Damien would whisper dark secrets to Lily, telling her of the dark forces he commanded. She listened in awe as he talked about reanimating corpses and summoning the spirits of the dead.
 
-Mas com o passar do tempo, Lily começou a notar estranhas ocorrências acontecendo ao seu redor. Objetos se moviam por conta própria, sussurros estranhos flutuavam no ar e um calafrio se instalava na sala sempre que Damien estava por perto.
+But as time went on, Lily began to notice strange occurrences happening around her. Objects moved of their own accord, strange whispers floated through the air, and a chill settled over the room whenever Damien was around.
 
-Não demorou muito para Lily perceber a verdade: Damien estava usando seus poderes para manipulá-la. Ela era apenas mais um peão em seu jogo sombrio, e ele não tinha intenção de deixá-la ir.
+It didn't take long for Lily to realize the truth: Damien was using his powers to manipulate her. She was just another pawn in his dark game, and he had no intention of letting her go.
 
-Lily tentou deixá-lo, mas o controle de Damien sobre os mortos era muito forte. Ele usou seus poderes para trazer de volta seus entes queridos falecidos, forçando-os a assombrá-la e atormentá-la até que ela estivesse de volta em seus braços.
+Lily tried to let him go, but Damien's grip on the dead was too strong. He used her powers to bring back her deceased loved ones, forcing them to haunt and torment her until she was back in his arms.
 
-No final, Lily foi consumida pela escuridão que Damien trouxe para sua vida. Ela se tornou sua serva fiel, seguindo-o voluntariamente por um caminho de escuridão e morte.
+In the end, Lily was consumed by the darkness that Damien had brought into her life. She became his faithful servant, willingly following him down a path of darkness and death.
 
-E enquanto Damien continuava a desempenhar seu ofício sombrio, convocando os espíritos dos mortos e controlando-os para cumprir suas ordens, Lily estava ao seu lado, com um sorriso torcido no rosto enquanto o observava trabalhar sua magia necromântica.
+And as Damien continued to perform his dark trade, summoning the spirits of the dead and controlling them to do his bidding, Lily was beside her, a wry smile on her face as she watched him work his necromantic magic.
 
 <p align="center">
-  <img src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/1.png">
+   <img src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/1.png">
 </p>
 
 
-# Conteúdo adicional
+# additional content
 <details>
-<summary>Outras imagens para referência</summary>
+<summary>Other images for reference</summary>
 
 <p align="center">
-  <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/2.png">
-  <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/3.png">
-  <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/4.png">
-  <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/5.png">
-  <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/6.png">
-  <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/7.png">
-  <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/8.png">
-  <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/9.png">
-  <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/10.png">
-  <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/11.png">
-  <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/12.png">
-  <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/13.png">
-  <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/14.png">
-  <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/15.png">
-  <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/16.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/2.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/3.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/4.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/5.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/6.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/7.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/8.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/9.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/10.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/11.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/12.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/13.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/14.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/15.png">
+   <img width="300" src="https://github.com/JonanthaW/AI_Tales/blob/main/1/images/16.png">
 </p>
 
 </details>
@@ -50,14 +50,14 @@ E enquanto Damien continuava a desempenhar seu ofício sombrio, convocando os es
 <summary>Prompt</summary>
 
 ```
-Positive prompt: ((man necromancer)), ((cute girl)), best quality, madness, dark, love, boyfriend and girlfriend, two person 
+Positive prompt: ((man necromancer)), ((cute girl)), best quality, madness, dark, love, boyfriend and girlfriend, two person
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username
-blurry Steps: 32, 
-Sampler: DDIM, 
-CFG scale: 12, 
-Seed: 1340731717, 
-Size: 512x512, 
-Model hash: e1441589a6, 
-Model: model
+blurrySteps: 32,
+Sampler: DDIM,
+CFG scale: 12,
+Seed: 1340731717,
+Size: 512x512,
+Model hash: e1441589a6,
+model: model
 ```
 </details>
