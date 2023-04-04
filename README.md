@@ -15,8 +15,7 @@ Overall, the use of AI in creating short stories with image and text has the pot
 * Stable Diffusion
 
 ## Script
-
-We leverage the official NodeJS package to generate captivating stories. The script I use is tuned to maximize the potential of the OpenAI language model, resulting in a rich and immersive storytelling experience. Get ready to be transported to new worlds and meet unforgettable characters.
+I'm using the official NodeJS package to generate captivating stories. The script being used is tuned to maximize the potential of the OpenAI language model, resulting in a rich and immersive storytelling experience. Get ready to be transported to new worlds and meet unforgettable characters.
 
 ```
 model: "gpt-3.5-turbo"
