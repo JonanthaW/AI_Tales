@@ -1,4 +1,4 @@
-# Creating playful universes with AI
+# Creating playful stories with AI
 
 As artificial intelligence (AI) continues to develop and evolve, it has begun to revolutionize the way we create and consume content. One area where this is particularly evident is in the world of storytelling. With the help of AI algorithms, it is now possible to generate narratives that incorporate both text and image elements, creating a more immersive and engaging experience for readers.
 
@@ -12,12 +12,10 @@ Overall, the use of AI in creating short stories with image and text has the pot
 ## Tools used:
 
 * ChatGPT
-* NovelAI
 * Stable Diffusion
 
 ## Script
-
-We leverage the official NodeJS package to generate captivating stories. The script I use is tuned to maximize the potential of the OpenAI language model, resulting in a rich and immersive storytelling experience. Get ready to be transported to new worlds and meet unforgettable characters.
+I'm using the official NodeJS package to generate captivating stories. The script being used is tuned to maximize the potential of the OpenAI language model, resulting in a rich and immersive storytelling experience. Get ready to be transported to new worlds and meet unforgettable characters.
 
 ```
 model: "gpt-3.5-turbo"
@@ -31,6 +29,9 @@ git clone https://github.com/JonanthaW/AI_Tales.git
 
 ## Then you have to install OpenAI official NPM package
 npm install openai
+
+## Don't forget to put your API_KEY in the .env
+https://platform.openai.com/account/api-keys
 
 ## run it with NODEJS (If you dont have it, you can download it for free -> https://nodejs.org/en)
 nodejs index.js

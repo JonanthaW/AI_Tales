@@ -85,4 +85,4 @@ You hesitate, but then you get stronger and approach the pedestal. As you raise 
 What do you do next?
 
 ```
-"Whatever it takes, we're going to save the world, you
+"Whatever it takes, we're going to save the world
