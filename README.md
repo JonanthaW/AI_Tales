@@ -12,7 +12,6 @@ Overall, the use of AI in creating short stories with image and text has the pot
 ## Tools used:
 
 * ChatGPT
-* NovelAI
 * Stable Diffusion
 
 ## Script
