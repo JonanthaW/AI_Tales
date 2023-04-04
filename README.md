@@ -30,6 +30,9 @@ git clone https://github.com/JonanthaW/AI_Tales.git
 ## Then you have to install OpenAI official NPM package
 npm install openai
 
+## Don't forget to put your API_KEY in the .env
+https://platform.openai.com/account/api-keys
+
 ## run it with NODEJS (If you dont have it, you can download it for free -> https://nodejs.org/en)
 nodejs index.js
 ```
