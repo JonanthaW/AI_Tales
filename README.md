@@ -1,4 +1,4 @@
-![logo IA generator image](/images/logo.jpg)
+<p align="center"><img src="/images/logo.png"/></p>
 
 # Creating playful stories with AI
 
