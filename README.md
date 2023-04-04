@@ -24,15 +24,15 @@ Aqui abaixo você pode conferir algumas histórias e contos criados utilizando e
 
 * [The Dragon Killers](https://github.com/JonanthaW/AI_Tales/tree/main/2)
 
-* [A Maldição de Shadowwood](https://github.com/JonanthaW/AI_Tales/tree/main/3)
+* [Shadowwood's Curse](https://github.com/JonanthaW/AI_Tales/tree/main/3)
 
-* [As Profundezas Amaldiçoadas](https://github.com/JonanthaW/AI_Tales/tree/main/4)
+* [Cursed Deep](https://github.com/JonanthaW/AI_Tales/tree/main/4)
 
-* [Buddy, o Cachorro Falante](https://github.com/JonanthaW/AI_Tales/tree/main/5)
+* [Buddy, The Talking Dog](https://github.com/JonanthaW/AI_Tales/tree/main/5)
 
-* [A maldição da bruxa: um conto de amor e redenção](https://github.com/JonanthaW/AI_Tales/tree/main/6)
+* [The Witcher Rendemption](https://github.com/JonanthaW/AI_Tales/tree/main/6)
 
-* [O Chamado do Abismo](https://github.com/JonanthaW/AI_Tales/tree/main/7)
+* [Abyss's Call](https://github.com/JonanthaW/AI_Tales/tree/main/7)
 
 
 # Script
