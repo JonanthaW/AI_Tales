@@ -15,29 +15,6 @@ Overall, the use of AI in creating short stories with image and text has the pot
 * NovelAI
 * Stable Diffusion
 
-## Tales:
-
-Below you can check some stories and tales created using these tools:
-
-* [The Dark Descent of Lily: The Love of a Necromancer](https://github.com/JonanthaW/AI_Tales/tree/main/The%20Dark%20Descent%20of%20Lily)
-
-* [The Dragon Killers](https://github.com/JonanthaW/AI_Tales/tree/main/The%20Dragon%20Killers)
-
-* [Shadowwood's Curse](https://github.com/JonanthaW/AI_Tales/tree/main/Shadowwood's%20Curse)
-
-* [Cursed Deep](https://github.com/JonanthaW/AI_Tales/tree/main/Cursed%20Deep)
-
-* [Buddy, The Talking Dog](https://github.com/JonanthaW/AI_Tales/tree/main/Buddy%2C%20The%20Talking%20Dog)
-
-* [The Witcher Redemption](https://github.com/JonanthaW/AI_Tales/tree/main/The%20Witcher%20Redemption)
-
-* [Abyss's Call](https://github.com/JonanthaW/AI_Tales/tree/main/Abyss's%20Call)
-
-* [The Wise Wolf](https://github.com/JonanthaW/AI_Tales/tree/main/The%20Wise%20Wolf)
-
-* [The Witcher Redemption](https://github.com/JonanthaW/AI_Tales/tree/main/The%20Witcher%20Redemption)
-
-
 ## Script
 
 We leverage the official NodeJS package to generate captivating stories. The script I use is tuned to maximize the potential of the OpenAI language model, resulting in a rich and immersive storytelling experience. Get ready to be transported to new worlds and meet unforgettable characters.
@@ -46,7 +23,36 @@ We leverage the official NodeJS package to generate captivating stories. The scr
 model: "gpt-3.5-turbo"
 ```
 
+#### How to run:
+
+```
+## First you have to clone this repo
+git clone https://github.com/JonanthaW/AI_Tales.git
+
+## Then you have to install OpenAI official NPM package
+npm install openai
+
+## run it with NODEJS (If you dont have it, you can download it for free -> https://nodejs.org/en)
+nodejs index.js
+```
+
 ## References:
 
 * https://platform.openai.com/docs/api-reference/
 * https://medium.com/codingthesmartway-com-blog/a-beginners-guide-to-integrating-chatgpt-with-node-js-9daf8557234
+
+## Tales:
+
+Below you can check some stories and tales created using these tools:
+
+* [The Dark Descent of Lily: The Love of a Necromancer](https://github.com/JonanthaW/AI_Tales/tree/main/The%20Dark%20Descent%20of%20Lily)
+* [The Dragon Killers](https://github.com/JonanthaW/AI_Tales/tree/main/The%20Dragon%20Killers)
+* [Shadowwood's Curse](https://github.com/JonanthaW/AI_Tales/tree/main/Shadowwood's%20Curse)
+* [Cursed Deep](https://github.com/JonanthaW/AI_Tales/tree/main/Cursed%20Deep)
+* [Buddy, The Talking Dog](https://github.com/JonanthaW/AI_Tales/tree/main/Buddy%2C%20The%20Talking%20Dog)
+* [The Witcher Redemption](https://github.com/JonanthaW/AI_Tales/tree/main/The%20Witcher%20Redemption)
+* [Abyss's Call](https://github.com/JonanthaW/AI_Tales/tree/main/Abyss's%20Call)
+* [The Wise Wolf](https://github.com/JonanthaW/AI_Tales/tree/main/The%20Wise%20Wolf)
+* [The Witcher Redemption](https://github.com/JonanthaW/AI_Tales/tree/main/The%20Witcher%20Redemption)
+* [The Rise of the Witch Queen] ()
+* [Purring Protectors] ()

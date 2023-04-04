@@ -311,8 +311,20 @@ try {
     fs.mkdirSync(regexTitle[0]);
 	fs.writeFile(`${regexTitle[0]}/README.md`, phrase, function (err) {
 		if (err) throw err;
-		console.log('Tale was created successfully.');
 	});
+  fs.open("README.md", "a", (err, fd)=>{
+    if(err){
+        console.log(err.message);
+    }else{
+        fs.write(fd, `* [${regexTitle[0]}] ()`, (err, bytes)=>{
+            if(err){
+                console.log(err.message);
+            }else{
+                console.log("Tale was created successfully");
+            }
+        })        
+    }
+})
   }
 } catch (err) {
   console.error(err);

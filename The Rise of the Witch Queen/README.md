@@ -1,0 +1,6 @@
+Title - The Rise of the Witch Queen
+History - In the land of Valtoria, there was once a powerful sorceress named Morgath who ruled with an iron fist. She was feared and revered by many, and her power was unmatched. However, as time went on, Morgath grew more and more obsessed with her own magical abilities, and she slowly began to lose touch with reality. She began to see herself as a god and demanded that all those around her worship her as such. 
+
+One day, a young witch named Selena challenged Morgath's reign, claiming that no one person should hold so much power over others. Morgath was infuriated by this, and she sentenced Selena to death. However, Selena had a secret weapon – a powerful spell that she had been preparing for years, specifically designed to defeat Morgath. 
+
+When Morgath and her army of followers came to execute Selena, she unleashed her spell, unleashing a powerful blast of magic that destroyed Morgath and her minions. Selena emerged triumphant and became known as the Witch Queen. From that day forward, she ruled Valtoria with a fair and just hand, never forgetting the lessons she learned from Morgath's downfall.
