@@ -29,7 +29,7 @@ Below you can check some stories and tales created using these tools:
 
 * [Buddy, The Talking Dog](https://github.com/JonanthaW/AI_Tales/tree/main/Buddy%2C%20The%20Talking%20Dog)
 
-* [The Witcher Rendemption](https://github.com/JonanthaW/AI_Tales/tree/main/6)
+* [The Witcher Redemption](https://github.com/JonanthaW/AI_Tales/tree/main/The%20Witcher%20Redemption)
 
 * [Abyss's Call](https://github.com/JonanthaW/AI_Tales/tree/main/Abyss's%20Call)
 
