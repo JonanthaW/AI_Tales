@@ -1,4 +1,4 @@
-# Creating playful universes with AI
+# Creating playful stories with AI
 
 As artificial intelligence (AI) continues to develop and evolve, it has begun to revolutionize the way we create and consume content. One area where this is particularly evident is in the world of storytelling. With the help of AI algorithms, it is now possible to generate narratives that incorporate both text and image elements, creating a more immersive and engaging experience for readers.
 
