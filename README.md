@@ -60,3 +60,4 @@ Below you can check some stories and tales created using these tools:
 * [The Discovery of Electricity](https://github.com/JonanthaW/AI_Tales/tree/main/The%20Discovery%20of%20Electricity)
 * [The Renaissance](https://github.com/JonanthaW/AI_Tales/tree/main/The%20Renaissance)
 * [The History of the Roman Empire](https://github.com/JonanthaW/AI_Tales/tree/main/The%20History%20of%20the%20Roman%20Empire)
+* [The Lost World of Xyron](https://github.com/JonanthaW/AI_Tales/tree/main/The%20Lost%20World%20of%20Xyron)

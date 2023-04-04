@@ -3,7 +3,7 @@ require('dotenv').config()
 var fs = require('fs');
 var items = require('./objects.js');
 
-input = `${items.input} using the format title -, history -`;
+input = `${items.generateText()} using the format title -, history -`;
 
 const configuration = new Configuration({
   apiKey: process.env.OPENAI_API_KEY,
@@ -29,11 +29,12 @@ try {
     if(err){
         console.log(err.message);
     }else{
-        regexURL = regexTitle[0].replaceAll(" ", "%20");
-        fs.write(fd, `\n* [${regexTitle[0]}] (https://github.com/JonanthaW/AI_Tales/tree/main/${regexURL})`, (err, bytes)=>{
+        transformStringIntoURL = regexTitle[0].replaceAll(" ", "%20");
+        fs.write(fd, `\n* [${regexTitle[0]}](https://github.com/JonanthaW/AI_Tales/tree/main/${transformStringIntoURL})`, (err, bytes)=>{
             if(err){
                 console.log(err.message);
             }else{
+                console.log(`input: ${input}`);
                 console.log("Tale was created successfully");
             }
         })        
@@ -44,6 +45,5 @@ try {
   console.error(err);
 }
 }
-
 
 runScript();
