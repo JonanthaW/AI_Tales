@@ -56,3 +56,4 @@ Below you can check some stories and tales created using these tools:
 * [The Witcher Redemption](https://github.com/JonanthaW/AI_Tales/tree/main/The%20Witcher%20Redemption)
 * [The Rise of the Witch Queen] ()
 * [Purring Protectors] ()
+* [The History of Mathematics] ()
