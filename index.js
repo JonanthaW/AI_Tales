@@ -29,7 +29,8 @@ try {
     if(err){
         console.log(err.message);
     }else{
-        fs.write(fd, `* [${regexTitle[0]}] ()`, (err, bytes)=>{
+        regexURL = regexTitle[0].replaceAll(" ", "%20");
+        fs.write(fd, `\n* [${regexTitle[0]}] (https://github.com/JonanthaW/AI_Tales/tree/main/${regexURL})`, (err, bytes)=>{
             if(err){
                 console.log(err.message);
             }else{
