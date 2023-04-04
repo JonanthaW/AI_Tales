@@ -46,6 +46,19 @@ We leverage the official NodeJS package to generate captivating stories. The scr
 model: "gpt-3.5-turbo"
 ```
 
+#### How to run:
+
+```
+## First you have to clone this repo
+git clone https://github.com/JonanthaW/AI_Tales.git
+
+## Then you have to install OpenAI official NPM package
+npm install openai
+
+## run it with NODEJS (If you dont have it, you can download it for free -> https://nodejs.org/en)
+nodejs index.js
+```
+
 ## References:
 
 * https://platform.openai.com/docs/api-reference/
