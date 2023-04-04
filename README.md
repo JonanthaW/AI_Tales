@@ -38,7 +38,7 @@ Below you can check some stories and tales created using these tools:
 * [The Witcher Redemption](https://github.com/JonanthaW/AI_Tales/tree/main/The%20Witcher%20Redemption)
 
 
-# script
+## Script
 
 We leverage the official NodeJS package to generate captivating stories. The script I use is tuned to maximize the potential of the OpenAI language model, resulting in a rich and immersive storytelling experience. Get ready to be transported to new worlds and meet unforgettable characters.
 
@@ -46,7 +46,7 @@ We leverage the official NodeJS package to generate captivating stories. The scr
 model: "gpt-3.5-turbo"
 ```
 
-### References:
+## References:
 
 * https://platform.openai.com/docs/api-reference/
 * https://medium.com/codingthesmartway-com-blog/a-beginners-guide-to-integrating-chatgpt-with-node-js-9daf8557234
