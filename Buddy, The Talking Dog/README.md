@@ -1,18 +1,18 @@
 ```
-vamos gerar um conto feliz agora, será um pequeno conto para crianças, será a história de um cachorro que aprendeu a falar só para ficar com seu dono
+let's generate a happy tale now, it will be a little tale for children, it will be the story of a dog that learned to talk just to stay with its owner
 ```
-# Buddy, o Cachorro Falante
+# Buddy the Talking Dog
 
-Era uma vez um cachorro chamado Buddy que amava seu dono mais do que tudo no mundo. Buddy e seu mestre eram os melhores amigos, passando os dias brincando juntos e fazendo longas caminhadas pela floresta.
+Once upon a time there was a dog named Buddy who loved his owner more than anything in the world. Buddy and his master were the best of friends, spending their days playing together and taking long walks through the woods.
 
-Mas um dia, o mestre de Buddy adoeceu e teve que ir para o hospital. Buddy estava com o coração partido e sentia muita falta de seu mestre. Ele ficava sentado na porta o dia todo, esperando que seu mestre voltasse para casa, mas nunca o fazia.
+But one day, Buddy's master got sick and had to go to the hospital. Buddy was heartbroken and missed his master terribly. He would sit at the door all day, waiting for his master to come home, but he never did.
 
-Um dia, enquanto Buddy estava vagando pela floresta, ele se deparou com um grupo de animais amigáveis que estavam reunidos em volta de uma fogueira. Eles deram as boas-vindas a Buddy e o convidaram para se juntar a eles e, enquanto conversavam e riam, algo incrível aconteceu.
+One day, while Buddy was wandering through the woods, he came across a group of friendly animals who were gathered around a campfire. They welcomed Buddy and invited him to join them, and as they talked and laughed, something amazing happened.
 
-Buddy percebeu que ele podia falar! Ele ficou tão empolgado que correu todo o caminho para casa para contar a boa notícia ao seu mestre. Quando ele chegou, seu mestre ficou surpreso ao ouvi-lo falar, mas ficou muito feliz por ter seu fiel companheiro de volta ao seu lado.
+Buddy realized he could talk! He was so excited that he ran all the way home to tell his master the good news. When he arrived, his master was surprised to hear him speak, but was overjoyed to have his faithful companion back beside him.
 
-Daquele dia em diante, Buddy e seu mestre conversavam e riam juntos o tempo todo. Eles viveram mais aventuras do que nunca, e Buddy até aprendeu a ler e escrever para poder contar a seu mestre tudo o que tinha visto e feito.
+From that day on, Buddy and his master talked and laughed together all the time. They had more adventures than ever before, and Buddy even learned to read and write so he could tell his master everything he had seen and done.
 
-E mesmo tendo aprendido a falar, Buddy nunca esqueceu a alegria de latir e abanar o rabo. Ele sabia que ser um cachorro era tão importante quanto ser capaz de falar, e ele amava sua vida com seu dono mais do que qualquer coisa no mundo.
+And even though he learned to talk, Buddy never forgot the joy of barking and wagging his tail. He knew that being a dog was just as important as being able to talk, and he loved his life with his owner more than anything else in the world.
 
-Portanto, se você vir um cachorro abanando o rabo e latindo alegremente, lembre-se de que ele pode ser um cachorro falante, mas ainda é um cachorro de coração. E não há nada no mundo como o amor e a lealdade de um companheiro fiel como Buddy.
+So if you see a dog wagging its tail and barking happily, remember that he may be a talking dog, but he's still a dog at heart. And there's nothing in the world like the love and loyalty of a faithful companion like Buddy.
