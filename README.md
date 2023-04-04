@@ -51,7 +51,7 @@ Below you can check some stories and tales created using these tools:
 
 * [Shadowwood's Curse](https://github.com/JonanthaW/AI_Tales/tree/main/Shadowwood's%20Curse)
 
-* [Cursed Deep](https://github.com/JonanthaW/AI_Tales/tree/main/Cursed%20Deep)
+* [Cursed Deep](https://github.com/JonanthaW/AI_Tales/tree/main/Cursed Deep)
 
 * [Buddy, The Talking Dog](https://github.com/JonanthaW/AI_Tales/tree/main/Buddy%2C%20The%20Talking%20Dog)
 
