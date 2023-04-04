@@ -22,7 +22,7 @@ Aqui abaixo você pode conferir algumas histórias e contos criados utilizando e
 
 * [The Dark Descent of Lily: O amor de um necromante](https://github.com/JonanthaW/AI_Tales/tree/main/1)
 
-* [Os matadores do dragão](https://github.com/JonanthaW/AI_Tales/tree/main/2)
+* [The Dragon Killers](https://github.com/JonanthaW/AI_Tales/tree/main/2)
 
 * [A Maldição de Shadowwood](https://github.com/JonanthaW/AI_Tales/tree/main/3)
 
