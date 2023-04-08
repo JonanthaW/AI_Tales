@@ -44,8 +44,6 @@ try {
 } catch (err) {
   console.error(err);
 }
-  await sleep(2000);
-  runScript();
 }
 
 function sleep(ms) {
