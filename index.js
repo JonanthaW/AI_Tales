@@ -20,9 +20,9 @@ phrase = completion.data.choices[0].message.content;
 regexTitle = phrase.match(/(?!Title - )([A-Za-z]+( [A-Za-z]+)+)/g);
 
 try {
-  if (!fs.existsSync(regexTitle[0])) {
-    fs.mkdirSync(regexTitle[0]);
-	fs.writeFile(`${regexTitle[0]}/README.md`, phrase, function (err) {
+  if (!fs.existsSync(`tales${regexTitle[0]}`)) {
+    fs.mkdirSync(`tales/${regexTitle[0]}`);
+	fs.writeFile(`tales/${regexTitle[0]}/README.md`, phrase, function (err) {
 		if (err) throw err;
 	});
   fs.open("README.md", "a", (err, fd)=>{
@@ -30,7 +30,7 @@ try {
         console.log(err.message);
     }else{
         transformStringIntoURL = regexTitle[0].replaceAll(" ", "%20");
-        fs.write(fd, `\n* [${regexTitle[0]}](https://github.com/JonanthaW/AI_Tales/tree/main/${transformStringIntoURL})`, (err, bytes)=>{
+        fs.write(fd, `\n* [${regexTitle[0]}](https://github.com/JonanthaW/AI_Tales/tree/main/tales/${transformStringIntoURL})`, (err, bytes)=>{
             if(err){
                 console.log(err.message);
             }else{
@@ -44,6 +44,14 @@ try {
 } catch (err) {
   console.error(err);
 }
+  await sleep(2000);
+  runScript();
+}
+
+function sleep(ms) {
+  return new Promise((resolve) => {
+    setTimeout(resolve, ms);
+});
 }
 
 runScript();
