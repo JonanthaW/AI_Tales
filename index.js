@@ -1,7 +1,7 @@
 const { Configuration, OpenAIApi } = require("openai");
 require('dotenv').config()
 var fs = require('fs');
-var items = require('./objects.js');
+var items = require('./content.js');
 
 input = `${items.generateText()} using the format title -, history -`;
 

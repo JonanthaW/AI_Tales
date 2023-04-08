@@ -1,3 +1,5 @@
+// arrays
+
 let animal = [
     "Aardvark",
     "Albatross",
@@ -278,9 +280,22 @@ let theme = [
   "fairy"
 ];
 
+// input
+
 let phrase = [
+`Generate a tale, use your creativity`,
 `Generate a tale ${style[Math.floor(Math.random()*style.length)]} about a ${adjective[Math.floor(Math.random()*adjective.length)]} ${animal[Math.floor(Math.random()*animal.length)]} who can talks like a person`,
-`Generate a ${theme[Math.floor(Math.random()*theme.length)]} tale`
+`Generate a ${theme[Math.floor(Math.random()*theme.length)]} tale`,
+`Generate a tale ${style[Math.floor(Math.random()*style.length)]} about a ${adjective[Math.floor(Math.random()*adjective.length)]} ${animal[Math.floor(Math.random()*animal.length)]} who come to Earth to save humanity`,
+`Generate a tale ${style[Math.floor(Math.random()*style.length)]} about a ${adjective[Math.floor(Math.random()*adjective.length)]} ${animal[Math.floor(Math.random()*animal.length)]} who discovers she has the ability to time-travel`,
+`Generate a tale ${style[Math.floor(Math.random()*style.length)]} about a ${adjective[Math.floor(Math.random()*adjective.length)]} ${animal[Math.floor(Math.random()*animal.length)]} who wakes up with the ability to read minds`,
+`Generate a tale ${style[Math.floor(Math.random()*style.length)]} about a ${adjective[Math.floor(Math.random()*adjective.length)]} ${animal[Math.floor(Math.random()*animal.length)]} who band together to solve a mystery`,
+`Generate a tale ${style[Math.floor(Math.random()*style.length)]} about a ${adjective[Math.floor(Math.random()*adjective.length)]} ${animal[Math.floor(Math.random()*animal.length)]} who befriends a friendly ghost`,
+`Generate a tale ${style[Math.floor(Math.random()*style.length)]} about a ${adjective[Math.floor(Math.random()*adjective.length)]} ${animal[Math.floor(Math.random()*animal.length)]} who embark on a quest to find a legendary treasure`,
+`Generate a tale ${style[Math.floor(Math.random()*style.length)]} about a ${adjective[Math.floor(Math.random()*adjective.length)]} ${animal[Math.floor(Math.random()*animal.length)]} who develop a society and language of their own`,
+`Generate a tale ${style[Math.floor(Math.random()*style.length)]} about a ${adjective[Math.floor(Math.random()*adjective.length)]} ${animal[Math.floor(Math.random()*animal.length)]} that seeks to summon a powerful demon into the world and the group of heroes who must stop them.`,
+`Generate a tale ${style[Math.floor(Math.random()*style.length)]} about a ${adjective[Math.floor(Math.random()*adjective.length)]} ${animal[Math.floor(Math.random()*animal.length)]} who discovers it is a vampire and must choose between its humanity and its thirst for blood`,
+`Generate a tale ${style[Math.floor(Math.random()*style.length)]} about a ${adjective[Math.floor(Math.random()*adjective.length)]} ${animal[Math.floor(Math.random()*animal.length)]} who grants wishes, but each wish comes with a terrible price`   
 ];
 
 exports.generateText = () => {
