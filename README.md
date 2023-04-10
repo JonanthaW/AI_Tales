@@ -48,6 +48,9 @@ nodejs index.js
 
 * https://platform.openai.com/docs/api-reference/
 * https://medium.com/codingthesmartway-com-blog/a-beginners-guide-to-integrating-chatgpt-with-node-js-9daf8557234
+* https://www.npmjs.com/package/verb-corpus
+* https://www.npmjs.com/package/noun-json
+* https://www.soulofyourstory.com/the-difference-between-a-story-and-a-tale/
 
 ## Tales:
 
