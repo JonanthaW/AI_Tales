@@ -29,8 +29,13 @@ model: "gpt-3.5-turbo"
 ## First you have to clone this repo
 git clone https://github.com/JonanthaW/AI_Tales.git
 
-## Then you have to install OpenAI official NPM package
+## Then you have to install essentials packages
 npm install openai
+npm install --save noun-json
+npm install --save verb-corpus
+npm install install adjectives
+
+(Or you can use your own list of words)
 
 ## Don't forget to put your API_KEY in the .env
 https://platform.openai.com/account/api-keys
@@ -91,3 +96,12 @@ Below you can check some stories and tales created using these tools:
 * [The Tale of the Clear Mouse](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Tale%20of%20the%20Clear%20Mouse)
 * [The Clear Mouse](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Clear%20Mouse)
 * [The Savior Mandrill](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Savior%20Mandrill)
+
+* [The Remarkable Adventures of Polly the Penguin](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Remarkable%20Adventures%20of%20Polly%20the%20Penguin)
+* [The Enchanted Forest](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Enchanted%20Forest)
+* [The Wayfaring Kudu](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Wayfaring%20Kudu)
+* [The Adventurous Time](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Adventurous%20Time)
+* [The Civilization of the Cattle](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Civilization%20of%20the%20Cattle)
+* [The Dilemma of Duskfall Hollow](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Dilemma%20of%20Duskfall%20Hollow)
+* [The Enchanted Guest](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Enchanted%20Guest)
+* [The Monstrous Willing Meaning](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Monstrous%20Willing%20Meaning)

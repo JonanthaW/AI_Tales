@@ -1,7 +1,10 @@
 {
   "dependencies": {
+    "adjectives": "^1.0.2",
     "dotenv": "^16.0.3",
-    "openai": "^3.2.1"
+    "noun-json": "^1.0.1",
+    "openai": "^3.2.1",
+    "verb-corpus": "^3.5.0"
   },
   "name": "scripts",
   "version": "1.0.0",
