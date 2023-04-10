@@ -3,14 +3,15 @@ require('dotenv').config()
 var fs = require('fs');
 var items = require('./content.js');
 
-input = `${items.generateText()} using the format title -, history -`;
-
 const configuration = new Configuration({
   apiKey: process.env.OPENAI_API_KEY,
 });
 const openai = new OpenAIApi(configuration);
 
 async function runScript () {
+  
+input = `${items.generateText()} using the format title -, history -`;
+
 const completion = await openai.createChatCompletion({
   model: "gpt-3.5-turbo",
   "messages": [{"role": "user", "content": input}]
@@ -44,6 +45,16 @@ try {
 } catch (err) {
   console.error(err);
 }
+
+await sleep(5000);
+runScript();
+
 }
 
 runScript();
+
+function sleep(ms) {
+  return new Promise((resolve) => {
+    setTimeout(resolve, ms);
+  });
+}
