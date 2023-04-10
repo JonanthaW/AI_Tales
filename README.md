@@ -108,3 +108,4 @@ Below you can check some stories and tales created using these tools:
 * [The Tale of the Time](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Tale%20of%20the%20Time)
 * [The Mystery of the Talking Hot Cake](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Mystery%20of%20the%20Talking%20Hot%20Cake)
 * [The Spectacular Security Guard Who Was Misunderstood](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Spectacular%20Security%20Guard%20Who%20Was%20Misunderstood)
+* [The Savior of Humanity](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Savior%20of%20Humanity)
