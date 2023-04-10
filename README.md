@@ -105,3 +105,6 @@ Below you can check some stories and tales created using these tools:
 * [The Dilemma of Duskfall Hollow](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Dilemma%20of%20Duskfall%20Hollow)
 * [The Enchanted Guest](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Enchanted%20Guest)
 * [The Monstrous Willing Meaning](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Monstrous%20Willing%20Meaning)
+* [The Tale of the Time](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Tale%20of%20the%20Time)
+* [The Mystery of the Talking Hot Cake](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Mystery%20of%20the%20Talking%20Hot%20Cake)
+* [The Spectacular Security Guard Who Was Misunderstood](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Spectacular%20Security%20Guard%20Who%20Was%20Misunderstood)
