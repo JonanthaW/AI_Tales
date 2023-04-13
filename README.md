@@ -211,8 +211,6 @@ Below you can check some stories and tales created using these tools:
 * [The Malevolent Melting Pit](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Malevolent%20Melting%20Pit)
 * [The Smelting King](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Smelting%20King)
 * [The Cursed Oak](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Cursed%20Oak)
-* [ ](https://github.com/JonanthaW/AI_Tales/tree/main/tales/%20)
-* [T](https://github.com/JonanthaW/AI_Tales/tree/main/tales/T)
 * [The Renegade Alliance](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Renegade%20Alliance)
 * [The Quest for the Golden Comb](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Quest%20for%20the%20Golden%20Comb)
 * [The Curious Case of the Pungent Carport](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Curious%20Case%20of%20the%20Pungent%20Carport)
