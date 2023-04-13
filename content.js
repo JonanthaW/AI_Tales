@@ -53,9 +53,8 @@ let theme = [
 ];
 
 // input
-
 let phrase = [
-`Generate a ${narrative[Math.floor(Math.random()*narrative.length)]}, use your creativity`,
+`Generate a ${narrative[Math.floor(Math.random()*narrative.length)]}, use your creativity`/*,
 `Generate a ${narrative[Math.floor(Math.random()*narrative.length)]} ${style[Math.floor(Math.random()*style.length)]} about a ${adjective[Math.floor(Math.random()*adjective.length)]} ${noun[Math.floor(Math.random()*noun.length)]} who can talks like a person`,
 `Generate a ${theme[Math.floor(Math.random()*theme.length)]} ${narrative[Math.floor(Math.random()*narrative.length)]}`,
 `Generate a ${narrative[Math.floor(Math.random()*narrative.length)]} ${style[Math.floor(Math.random()*style.length)]} about a ${adjective[Math.floor(Math.random()*adjective.length)]} ${noun[Math.floor(Math.random()*noun.length)]} who come to Earth to save humanity`,
@@ -68,7 +67,7 @@ let phrase = [
 `Generate a ${narrative[Math.floor(Math.random()*narrative.length)]} ${style[Math.floor(Math.random()*style.length)]} about a ${adjective[Math.floor(Math.random()*adjective.length)]} ${noun[Math.floor(Math.random()*noun.length)]} that seeks to summon a powerful demon into the world and the group of heroes who must stop them.`,
 `Generate a ${narrative[Math.floor(Math.random()*narrative.length)]} ${style[Math.floor(Math.random()*style.length)]} about a ${adjective[Math.floor(Math.random()*adjective.length)]} ${noun[Math.floor(Math.random()*noun.length)]} who discovers it is a vampire and must choose between its humanity and its thirst for blood`,
 `Generate a ${narrative[Math.floor(Math.random()*narrative.length)]} ${style[Math.floor(Math.random()*style.length)]} about a ${adjective[Math.floor(Math.random()*adjective.length)]} ${noun[Math.floor(Math.random()*noun.length)]} who grants wishes, but each wish comes with a terrible price`,
-`Generate a ${narrative[Math.floor(Math.random()*narrative.length)]} ${style[Math.floor(Math.random()*style.length)]} about a ${adjective[Math.floor(Math.random()*adjective.length)]} ${noun[Math.floor(Math.random()*noun.length)]} who ${verb[Math.floor(Math.random()*verb.length)]} like a ${adjective[Math.floor(Math.random()*adjective.length)]} ${noun[Math.floor(Math.random()*noun.length)]}`
+`Generate a ${narrative[Math.floor(Math.random()*narrative.length)]} ${style[Math.floor(Math.random()*style.length)]} about a ${adjective[Math.floor(Math.random()*adjective.length)]} ${noun[Math.floor(Math.random()*noun.length)]} who ${verb[Math.floor(Math.random()*verb.length)]} like a ${adjective[Math.floor(Math.random()*adjective.length)]} ${noun[Math.floor(Math.random()*noun.length)]}`*/
 ];
 
 exports.generateText = () => {

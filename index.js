@@ -10,7 +10,7 @@ const openai = new OpenAIApi(configuration);
 
 async function runScript () {
   
-input = `${items.generateText()} using the format title -, history -`;
+input = `${items.generateText()}, give it a creative title`;
 
 const completion = await openai.createChatCompletion({
   model: "gpt-3.5-turbo",
@@ -18,7 +18,7 @@ const completion = await openai.createChatCompletion({
 });
 
 phrase = completion.data.choices[0].message.content;
-regexTitle = phrase.match(/(?!Title - )([A-Za-z]+( [A-Za-z]+)+)/g);
+regexTitle = phrase.match(/(?!Title: )([A-Za-z]+( [A-Za-z]+)+)/g);
 
 try {
   if (!fs.existsSync(`tales${regexTitle[0]}`)) {
@@ -50,7 +50,6 @@ await sleep(5000);
 runScript();
 
 }
-
 runScript();
 
 function sleep(ms) {
