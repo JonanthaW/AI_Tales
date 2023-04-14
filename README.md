@@ -353,5 +353,3 @@ Below you can check some stories and tales created using these tools:
 * [The Haunting of the Abandoned Manor](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Haunting%20of%20the%20Abandoned%20Manor)
 * [The Enchanted Pen](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Enchanted%20Pen)
 * [The Dragon and the Villagers](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Dragon%20and%20the%20Villagers)
-=======
->>>>>>> 3bb1becdb63ecc8a10c6bf9e949782135b934444
