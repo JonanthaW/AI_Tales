@@ -211,8 +211,6 @@ Below you can check some stories and tales created using these tools:
 * [The Malevolent Melting Pit](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Malevolent%20Melting%20Pit)
 * [The Smelting King](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Smelting%20King)
 * [The Cursed Oak](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Cursed%20Oak)
-* [ ](https://github.com/JonanthaW/AI_Tales/tree/main/tales/%20)
-* [T](https://github.com/JonanthaW/AI_Tales/tree/main/tales/T)
 * [The Renegade Alliance](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Renegade%20Alliance)
 * [The Quest for the Golden Comb](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Quest%20for%20the%20Golden%20Comb)
 * [The Curious Case of the Pungent Carport](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Curious%20Case%20of%20the%20Pungent%20Carport)
@@ -285,6 +283,7 @@ Below you can check some stories and tales created using these tools:
 * [The Lost City of Atlantis](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Lost%20City%20of%20Atlantis)
 * [The Time Traveler](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Time%20Traveler)
 * [The Lost Kingdom of Hellothia](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Lost%20Kingdom%20of%20Hellothia)
+<<<<<<< HEAD
 * [The Lonely Dragon](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Lonely%20Dragon)
 * [The Heart of the Forest](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Heart%20of%20the%20Forest)
 * [The Magic Garden](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Magic%20Garden)
@@ -354,3 +353,5 @@ Below you can check some stories and tales created using these tools:
 * [The Haunting of the Abandoned Manor](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Haunting%20of%20the%20Abandoned%20Manor)
 * [The Enchanted Pen](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Enchanted%20Pen)
 * [The Dragon and the Villagers](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Dragon%20and%20the%20Villagers)
+=======
+>>>>>>> 3bb1becdb63ecc8a10c6bf9e949782135b934444
