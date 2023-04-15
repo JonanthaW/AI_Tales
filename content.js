@@ -1,6 +1,6 @@
-var noun = require('noun-json');
+/*var noun = require('noun-json');
 const { complete: verb }= require('verb-corpus');
-var adjective = require('adjectives');
+var adjective = require('adjectives');*/
 
 // arrays
 let narrative = ["tale", "story"];

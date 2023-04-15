@@ -21,7 +21,7 @@ phrase = completion.data.choices[0].message.content;
 regexTitle = phrase.match(/(?!Title: )([A-Za-z]+( [A-Za-z]+)+)/g);
 
 try {
-  if (!fs.existsSync(`tales${regexTitle[0]}`)) {
+  if (!fs.existsSync(`tales/${regexTitle[0]}`)) {
     fs.mkdirSync(`tales/${regexTitle[0]}`);
 	fs.writeFile(`tales/${regexTitle[0]}/README.md`, phrase, function (err) {
 		if (err) throw err;
