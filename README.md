@@ -29,6 +29,8 @@ model: "gpt-3.5-turbo"
 ## First you have to clone this repo
 git clone https://github.com/JonanthaW/AI_Tales.git
 
+
+(OPTIONAL)
 ## Then you have to install essentials packages
 npm install openai
 npm install --save noun-json
