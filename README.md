@@ -450,3 +450,4 @@ Below you can check some stories and tales created using these tools:
 * [The Lost City of Odonia](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Lost%20City%20of%20Odonia)
 * [The Secret of the Abandoned House](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Secret%20of%20the%20Abandoned%20House)
 * [The Enchanted Bookshop](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Enchanted%20Bookshop)
+* [The Magical Rainbow Forest](https://github.com/JonanthaW/AI_Tales/tree/main/tales/The%20Magical%20Rainbow%20Forest)
